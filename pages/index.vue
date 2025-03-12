@@ -4,3 +4,7 @@
       This is an auto-imported component
   </div>
 </template>
+
+<script setup lang="ts">
+
+</script>
